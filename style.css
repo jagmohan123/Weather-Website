@@ -15,8 +15,8 @@
 }
 
 .wrapper {
-	width: 100vw;
-	height: 760px;
+/* 	width: 100vw;
+	height: 760px; */
 	color: var(--colorLight2);
 	background: linear-gradient(90deg,
 			rgba(3, 169, 244, 1) 0%,
