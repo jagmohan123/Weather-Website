@@ -16,7 +16,7 @@
 
 .wrapper {
 /* 	width: 100vw; */
-	height: 100vh;
+	height: 1000px;
 	color: var(--colorLight2);
 	background: linear-gradient(90deg,
 			rgba(3, 169, 244, 1) 0%,
@@ -271,6 +271,17 @@ h1 {
 
 
 @media (max-width: 500px) {
+	.wrapper {
+        height: 1100px;
+        color: var(--colorLight2);
+        background: linear-gradient(90deg,
+                rgba(3, 169, 244, 1) 0%,
+                rgba(33, 150, 243, 1) 64%,
+                rgba(7, 58, 187, 1) 100%);
+                overflow: hidden;
+                background-size: cover;
+                position: sticky;
+    }
 	.tab-container {
 		margin-top: 10px;
 		display: flex;
