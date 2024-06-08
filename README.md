@@ -10,3 +10,4 @@ To issue weather alerts and warnings for severe weather events like hurricanes, 
 
 # Live Link
 https://jagmohan123.github.io/Weather-Website/
+https://weather-info-finder.netlify.app/
